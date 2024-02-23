@@ -1,3 +1,29 @@
+![Captura de Tela (123)](https://github.com/PauloAquarius0299/rota-paises-next/assets/114706743/5ecdd5e8-d1ce-4fb3-a7fe-ff71f3adfc65)
+
+# 🌎 Lista de Paises
+Criei uma interface animada integrada com a API Rest Countries com TypeScript, React e NextJs
+## 🌍 Introdução
+Projeto simples e interface bem estilizada mostra varias bandeiras onde o usuario consiga clicar em qualquer uma delas e tera informações a respeito daquele pais e bandeiras de nações que fazem fronteira, instalação do React e NextJs 14 Router, estilização com tailwind css e integração com a API Rest Countries para criar toda interface.
+### 💡 Pre-Requisitos 
+integração com API Rest Countries e intalação do next com tailwind
+```
+https://restcountries.com/v3.1/all
+```
+```
+npx create-next-app nome-do-seu-projeto@latest --ts
+```
+### 🛠️ Ferramentas 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 🗺️ Interface
+### Pagina inicial
+![Captura de Tela (124)](https://github.com/PauloAquarius0299/rota-paises-next/assets/114706743/26ce74d2-267d-430e-b23d-8550a388f6a5)
+### Pagina 2 de informações sobre cada pais e seus vizinhos
+![Captura de Tela (125)](https://github.com/PauloAquarius0299/rota-paises-next/assets/114706743/a12fd4dd-1c45-46aa-a8f7-58073e403e49)
+![Captura de Tela (126)](https://github.com/PauloAquarius0299/rota-paises-next/assets/114706743/72110e3a-3961-49c0-9573-9ea85b794df6)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
